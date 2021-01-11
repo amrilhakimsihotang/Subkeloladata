@@ -1,0 +1,184 @@
+{
+  "tivi": [
+    {
+      "id": "1",
+      "originalName": "The Mandalorian (2019)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "creatorcast": "Jon Favreau",
+      "seriescast": "Pedro Pascal, Carl Weathers, Giancarlo Esposito, Gina Carano, Temuera Morrison, Misty Rosas, Chris Bartlett, Rio Hackford, Emily Swallow, Paul Sun-Hyung Lee, Gabriel Ebert, Bill Burr, John Beasley, Dmitrious Bistrevsky, Brian Posehn",
+      "writingcast": "George Lucas, Christopher L. Yost, Dave Filoni, Jon Favreau, Rick Famuyiwa"
+    },
+    {
+      "id": "2",
+      "originalName": "The Good Doctor (2017) ",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives?",
+      "creatorcast": "David Shore",
+      "seriescast": "Freddie Highmore, Antonia Thomas, Hill Harper, Richard Schiff, Nicholas Gonzalez, Christina Chang, Paige Spara, Fiona Gubelmann, Will Yun Lee, Tamlyn Tomita, Jasika Nicole, Elfina Luk, Teryl Rothery,Chuku Modu, Beau Garrett, Sheila Kelley, Karin Konoval ",
+      "writingcast": "Liz Friedman, Adam Scott Weissman, Brian Shin, David Hoselton, David Renaud, David Renaud, Debbie Ezer, Doris Egan, Freddie Highmore, Jessica Grasl, Johanna Lee"
+    },
+    {
+      "id": "3",
+      "originalName": "Grey's Anatomy (2005) ",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "creatorcast": "Shonda Rhimes",
+      "seriescast": "Ellen Pompeo, Justin Chambers, James Pickens Jr., Chandra Wilson, Patrick Dempsey, Sara Ramirez, Sandra Oh, Kevin McKidd, Leven Rambin, Ryan Devlin, Jaina Lee Ortiz, Tina Holmes",
+      "writingcast": "Allan Heinberg, Ann Hamilton, Austin Guzman, Billy Harper, Bruce William Harper, Carolina Paiz, Chris Van Dusen"
+    },
+    {
+      "id": "4",
+      "originalName": "Lucifer (2016)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "creatorcast": "Tom Kapinos",
+      "seriescast": "Tom Ellis, Lauren German, Kevin Alejandro, D.B. Woodside, Lesley-Ann Brandt, Rachael Harris, Scarlett Estevez, Aimee Garcia, Tricia Helfer, Tom Welling, Jon Sklaroff, Inbar Lavi, Kevin Rankin, Graham McTavish",
+      "writingcast": "Mike Dringenberg, Neil Gaiman, Sam Kieth, Jenn Kao, Recardo Lopez, Jr., Ildy Modrovich, Joe Henderson, Aiyana White, Alex Katsnelson"
+    },
+    {
+      "id": "5",
+      "originalName": "Fear the Walking Dead (2015) ",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/wGFUewXPeMErCe2xnCmmLEiHOGh.jpg",
+      "overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+      "creatorcast": "Dave Erickson, Robert Kirkman",
+      "seriescast": "Alycia Debnam-Carey, Danay García, Colman Domingo, Kim Dickens, Frank Dillane, Rubén Blades, Lennie James, Garret Dillahunt, Maggie Grace, Jenna Elfman, Cliff Curtis, Alexa Nisenson, Austin Amelio, Karen David, Mo Collins, Mercedes Mason",
+      "writingcast": "Alex Delyle, Andrew Chambliss, Ashley Cardiff, Dave Erickson, David Johnson, David Wiener, Ian Goldberg, Jack LoGiudice"
+    },
+    {
+      "id": "6",
+      "originalName": "30 Coins (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg",
+      "overview": "Father Vergara—an exorcist, boxer and ex-convict—lives in a remote village in Spain. Hoping to be lost and forgotten, Vergara’s demons catch up to him.",
+      "creatorcast": "Jorge Guerricaechevarría, Álex de la Iglesia",
+      "seriescast": "Eduard Fernández, Macarena Gómez, Miguel Ángel Silvestre, Megan Montaner, Pepón Nieto, Manolo Solo",
+      "writingcast": "Jorge Guerricaechevarría, Álex de la Iglesia"
+    },
+    {
+      "id": "7",
+      "originalName": "SEAL Team (2017)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/uTSLeQTeHevt4fplegmQ6bOnE0Z.jpg",
+      "overview": "The lives of the elite Navy Seals as they train, plan and execute the most dangerous, high-stakes missions our country can ask.",
+      "creatorcast": "Benjamin Cavell",
+      "seriescast": "David Boreanaz, Max Thieriot, Neil Brown Jr., A.J. Buckley, Jessica Paré, Toni Trucks, Justin Melnick, Tyler Grey, Judd Lormand, Scott Foxx, Michaela McManus, Parisa Fakhri, Lucca De Oliveira",
+      "writingcast": "Tom Mularz, Jacob Roman, Kenny Ryan, Becky Mode, Benjamin Cavell, Beth Schacter"
+    },
+    {
+      "id": "8",
+      "originalName": "The Queen's Gambit (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+      "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+      "creatorcast": "Scott Frank, Allan Scott",
+      "seriescast": "Anya Taylor-Joy, Janina Elkin, Matthew Dennis Lewis, Russell Dennis Lewis, Dolores Carbonari, Bill Camp, Marielle Heller, Marcin Dorociński, Patrick Kennedy",
+      "writingcast": "Walter Tevis, Allan Scott, Scott Frank"
+    },
+    {
+      "id": "9",
+      "originalName": "His Dark Materials (2019)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
+      "overview": "Lyra is an orphan who lives in a parallel universe in which science, theology and magic are entwined. Lyra's search for a kidnapped friend uncovers a sinister plot involving stolen children, and turns into a quest to understand a mysterious phenomenon called Dust. She is later joined on her journey by Will, a boy who possesses a knife that can cut windows between worlds. As Lyra learns the truth about her parents and her prophesied destiny, the two young people are caught up in a war against celestial powers that ranges across many worlds.",
+      "creatorcast": "Dawn Shadforth, Euros Lyn, Jamie Childs",
+      "seriescast": "Dafne Keen, Ruth Wilson, Ariyon Bakare, Will Keen, Lin-Manuel Miranda, Amir Wilson, Kit Connor, Ruta Gedmintas, Andrew Scott, Jamie Wilkes, Robert Emms, Daniel Frogson",
+      "writingcast": "Philip Pullman, Michael Clarkson, Paul Clarkson, Francesca Gardiner, Jack Thorne, Namsi Khan"
+    },
+    {
+      "id": "10",
+      "originalName": "Supernatural (2005)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.",
+      "creatorcast": "Eric Kripke",
+      "seriescast": "Alexander Calvert, Samantha Ferris, Curtis Armstrong, Jensen Ackles, Alona Tal, Jared Padalecki, Ruth Connell, Jim Beaver Emily Swallow",
+      "writingcast": "Robert Singer, Robbie Thompson, Richard Hatem, Raelle Tucker, Rachel Nave, Nancy Won, Meghan Fitzmartin"
+    },
+    {
+      "id": "11",
+      "originalName": "Chicago P.D. (2014)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/OlPR1kctwXzSUJQkZINDDhNlHV.jpg",
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "creatorcast": "Dick Wolf",
+      "seriescast": "Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Laroyce Hawkins, Amy Morton, Jon Seda, Elias Koteas, Sophia Bush",
+      "writingcast": "Dick Wolf, Ryan Maldonado, April Fitsimmons, Gavin Harris, Mike Batistick, Warren Leight"
+    },
+    {
+      "id": "12",
+      "originalName": "I Am... (2019)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/oogunE22HDTcTxFakKQbwqfw1qo.jpg",
+      "overview": "Each hour-long film follows a different women as they experience “moments that are emotionally raw, thought-provoking and utterly personal”.",
+      "creatorcast": "Dominic Savage",
+      "seriescast": "Vicky McClure, Perry Fitzpatrick, Leanne Best, Sam Spruell, Samantha Morton, Paul Kaye, Vinette Robinson, Anthony Flanagan, Gemma Chan",
+      "writingcast": "Dominic Savage, Gemma Chan, Samantha Morton, Vicky McClure"
+    },
+    {
+      "id": "13",
+      "originalName": "Station 19 (2018)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/lcuCED5Ky2uM5VE6wILOwt5FEb0.jpg",
+      "overview": "A group of heroic firefighters at Seattle Fire Station 19—from captain to newest recruit—risk their lives and hearts both in the line of duty and off the clock. These brave men and women are like family, literally and figuratively, and together they put their own lives in jeopardy as first responders to save the lives of others.",
+      "creatorcast": "Stacy McKee",
+      "seriescast": "Jaina Lee Ortiz, Jason George, Boris Kodjoe, Grey Damon, Barrett Doss, Jay Hayden, Okieriete Onaodowan, Danielle Savre, Miguel Sandoval",
+      "writingcast": "Angela Harvey, Anupam Nigam, Barbara Kaye Friend, Brian Anthony, Chris Downey, Cinque Henderson"
+    },
+    {
+      "id": "14",
+      "originalName": "S.W.A.T. (2017)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/ushSkKB8aeLsyyW2c7S7CCmEmRA.jpg",
+      "overview": "A locally born and bred S.W.A.T. lieutenant is torn between loyalty to the streets and duty to his fellow officers when he's tasked to run a highly-trained unit that's the last stop for solving crimes in Los Angeles.",
+      "creatorcast": "Aaron Rahsaan Thomas",
+      "seriescast": "Shemar Moore, Alex Russell, Jay Harrington, Lina Esco, Kenny Johnson, David Lim, Patrick St. Esprit, Stephanie Sigman, Peter Onorati, Amy Farrington, Lou Ferrigno Jr.",
+      "writingcast": "A.C. Allen, Aaaron Rahsaan Thomas, Alison Cross, Amelia Sims, Andrew Dettmann, Craig Gore, Kent Rotherham"
+    },
+    {
+      "id": "15",
+      "originalName": "FBI: Most Wanted (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/a726XitXkpejyiBwOLlGmO7SLOe.jpg",
+      "overview": "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau’s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
+      "creatorcast": "René Balcer",
+      "seriescast": "Julian McMahon, Kellan Lutz, Roxy Sternberg, Keisha Castle-Hughes, Nathaniel Arcand, YaYa Gosselin, Lorne Cardinal, Irene Bedard, Alana de la Garza, Rachel York",
+      "writingcast": "Craig Turk, Dick Wolf, Gina Gionfriddo, Jerome Hairston, Dwain Worrell, Elizabeth Rinehart, Kathy McCormick"
+    },
+    {
+      "id": "16",
+      "originalName": "Dragon Ball Z (1989)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg",
+      "overview": "Five years have passed since the fight with Piccolo Jr., and Goku now has a son, Gohan. The peace is interrupted when an alien named Raditz arrives on Earth in a spacecraft and tracks down Goku, revealing to him that that they are members of a near-extinct warrior race called the Saiyans.",
+      "creatorcast": "Akira Toriyama",
+      "seriescast": "Masako Nozawa, Yūko Minaguchi, Hiroko Emori, Shigeru Chiba, Naoko Watanabe, Mayumi Tanaka, Naoki Tatsuta, Yukimasa Kishino",
+      "writingcast": "Akira Toriyama, John Burgmeier"
+    },
+    {
+      "id": "17",
+      "originalName": "Teen Wolf (2011)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/vY2vfAskJTiWsQSv6bdbNCQhPLm.jpg",
+      "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
+      "creatorcast": "Jeff Davis",
+      "seriescast": "Tyler Posey, Dylan O'Brien, Holland Roden, Linden Ashby, JR Bourne, Melissa Ponzio, Tyler Hoechlin, Shelley Hennig, Crystal Reed",
+      "writingcast": "Alyssa Clark, Andy Cochran, Angela Harvey, Bisanne Masoud, Brian Sieve, Christian Taylor, Daniel Sinclair"
+    },
+    {
+      "id": "18",
+      "originalName": "The Flash (2014)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "creatorcast": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+      "seriescast": "Grant Gustin, Carlos Valdes, Danielle Panabaker, Candice Patton, Jesse L. Martin,  Tom Cavanagh, Danielle Nicolet, Hartley Sawyer, Keiynan Lonsdale, Rick Cosnett, Jessica Parker Kennedy",
+      "writingcast": "Deric A. Hughes, Eric Wallace, Grainne Godfree, Greg Berlanti, Marc Guggenheim, Jay Oliva, Aaron Helbing, Andrew Kreisberg"
+    },
+    {
+      "id": "19",
+      "originalName": "Naruto (2002)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg",
+      "overview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+      "creatorcast": "Hayato Date, Masashi Kishimoto",
+      "seriescast": "Kentaro Ito, Nana Mizuki, Junko Takeuchi, Noriaki Sugiyama, Chie Nakamura, Kazuhiko Inoue, Kōichi Tōchika, Masashi Ebara, Yōichi Masukawa",
+      "writingcast": "Hayato Date, Masashi Kishimoto"
+    },
+    {
+      "id": "20",
+      "originalName": "Marvel's Agents of S.H.I.E.L.D. (2013)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+      "overview": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
+      "creatorcast": "Joss Whedon, Jed Whedon, Maurissa Tancharoen",
+      "seriescast": "Clark Gregg, Ming-Na Wen, Chloe Bennet, Elizabeth Henstridge, Iain De Caestecker, Henry Simmons, Brett Dalton, Adrian Pasdar, Natalia Córdova-Buckley, Zach McGowan, Brian Patrick Wade",
+      "writingcast": "Jack Kirby, Stan Lee, Mark Bruner, Daniel J. Doyle, James Oliver, George Kitson, Brent Fletcher"
+    }
+  ]
+}

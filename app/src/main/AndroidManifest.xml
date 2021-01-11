@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amrilhakimsihotang.subkeloladata">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Subkeloladata">
+        <activity
+            android:name=".roomfav.ui.favorite.favotivi.ListFavTiviActivity"
+            android:theme="@style/Theme.Subkeloladata" />
+        <activity
+            android:name=".roomfav.ui.favorite.favomovie.ListFavMovieActivity"
+            android:theme="@style/Theme.Subkeloladata" />
+        <activity android:name=".roomfav.ui.favorite.favotivi.FavTivisDetailActivity" />
+        <activity android:name=".roomfav.ui.favorite.favomovie.FavMovieDetailActivity" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:theme="@style/Theme.Subkeloladata.NoActionBar" />
+        <activity android:name=".detail.DetailMoviesActivity" />
+        <activity android:name=".detail.DetailTvshowActivity" />
+        <activity
+            android:name=".splash.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Subkeloladata">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

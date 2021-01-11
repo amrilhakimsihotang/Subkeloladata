@@ -1,0 +1,111 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'kotlin-android-extensions'
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.amrilhakimsihotang.subkeloladata"
+        minSdkVersion 27
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+    buildFeatures {
+        viewBinding true
+        dataBinding true
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation "androidx.core:core-ktx:$coreVersion"
+    implementation "androidx.appcompat:appcompat:$appVersion"
+    implementation "androidx.appcompat:appcompat:$appVersionB"
+    implementation 'com.google.android.material:material:1.3.0-beta01'
+    implementation "androidx.constraintlayout:constraintlayout:$constraintVersion"
+
+    implementation "androidx.legacy:legacy-support-v4:$legacyVersion"
+
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-extensions:$lifecycleVersion"
+
+    implementation "androidx.room:room-runtime:$roomVersion"
+    implementation "androidx.room:room-ktx:$roomVersion"
+    testImplementation "androidx.room:room-testing:$roomVersion"
+    kapt "androidx.room:room-compiler:$roomVersion"
+
+
+    implementation "androidx.navigation:navigation-fragment:$navigationVersion"
+    implementation "androidx.navigation:navigation-ui:$navigationVersion"
+    implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
+    implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
+
+
+    implementation "androidx.cardview:cardview:$cardviewVersion"
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+
+    //unit test
+    androidTestImplementation "androidx.test:core:$testCoreVersion"
+    testImplementation "junit:junit:$junitVersion"
+   // testImplementation "org.hamcrest:hamcrest-all:2.2"
+    testImplementation "androidx.arch.core:core-testing:$acrVersion"
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$jetKotlinVersion"
+    testImplementation "org.mockito:mockito-core:$mockitoVersion"
+    testImplementation "org.mockito:mockito-inline:$mockitoVersion"
+    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:$mockitoKotlinVersion"
+    testImplementation "com.google.truth:truth:$googleTruthVersion"
+    testImplementation "org.robolectric:robolectric:$robolectricVersion"
+
+
+    //Instrument test
+    androidTestImplementation "androidx.test:core-ktx:$androidTestVersion"
+    androidTestImplementation "junit:junit:$junitVersion"
+    androidTestImplementation "com.linkedin.dexmaker:dexmaker-mockito:$linkedinMockitoVersion"
+    androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$jetKotlinVersion"
+    androidTestImplementation "androidx.arch.core:core-testing:$acrVersion"
+    androidTestImplementation "androidx.test.ext:junit:$junitExtversion"
+    androidTestImplementation "androidx.test:rules:$androidTestVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-contrib:$espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-intents:$espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-accessibility:$espressoVersion"
+    androidTestImplementation "com.google.truth:truth:$googleTruthVersion"
+
+
+
+    //idling
+    implementation "androidx.test.espresso:espresso-idling-resource:$idleResourceVersion"
+
+    //paging
+    implementation "androidx.paging:paging-runtime:$pagingVersion"
+    testImplementation "androidx.paging:paging-common:$pagingVersion"
+    implementation "androidx.paging:paging-rxjava2:$pagingVersion"
+
+
+}

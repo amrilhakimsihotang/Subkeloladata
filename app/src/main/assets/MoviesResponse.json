@@ -1,0 +1,204 @@
+{
+  "movie": [
+    {
+      "id": "1",
+      "originalTitle": "Jiu Jitsu (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg",
+      "overview": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+      "director": "Dimitri Logothetis",
+      "writer": "Dimitri Logothetis, Jim McGrath",
+      "screenplay": "Marie Avgeropoulos, Rick Yune",
+      "personCast": "Nicolas Cage, Alain Moussi, Frank Grillo, Tony Jaa, JuJu Chan, Marie Avgeropoulos, Rick Yune, Eddie Steeples, James P. Bennett, Dan Rizzuto, Ryan Tarran, John D. Hickman, Tommy Walker"
+    },
+    {
+      "id": "2",
+      "originalTitle": "Upside-Down Magic (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/xfYMQNApIIh8KhpNVtG1XRz0ZAp.jpg",
+      "overview": "Nory and her best friend Reina enter the Sage Academy for Magical Studies, where Nory’s unconventional powers land her in a class for those with wonky, or “upside-down,” magic. Undaunted, Nory sets out to prove that that upside-down magic can be just as powerful as right-side-up.",
+      "director": "Joe Nussbaum",
+      "writer": "Nick Pustay",
+      "screenplay": "Nick Pustay",
+      "personCast": "Izabela Rose, Siena Agudong, Kyle Howard, Max Torina, Elie Samouhi, Alison Fernandez, Vicki Lewis, Cynthia Kaye McWilliams, Jaime M. Callica, Callum Seagram Airlie, Amitai Marmorstein, Elaine Kao, Emily Delahunty, Ricardo Ortiz, Jason Asuncion, Yasmeen Fletcher, Melody Nosipho Niemann,Lou Ticzon, Valencia Budijanto, Josh Zaharia, Esther Li, Yoko Misawa, Rosalba Perez, Leslie Dos Remedios "
+    },
+    {
+      "id": "3",
+      "originalTitle": "Fatman (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg",
+      "overview": "A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.",
+      "director": "Eshom Nelms, Ian Nelms",
+      "writer": "Eshom Nelms, Ian Nelms",
+      "screenplay": "Eshom Nelms, Ian Nelms",
+      "personCast": "Mel Gibson, Walton Goggins, Marianne Jean-Baptiste, Shaun Benson, Paulino Nunes, Chance Hurstfield, Michelle Lang, Deborah Grover, Michael Dickson"
+    },
+    {
+      "id": "4",
+      "originalTitle": "Tenet (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+      "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+      "director": "Christopher Nolan",
+      "writer": "Christopher Nolan",
+      "screenplay": "Kenneth Branagh, Dimple Kapadia",
+      "personCast": "John David Washington, Robert Pattinson, Elizabeth Debicki, Kenneth Branagh, Dimple Kapadia, Himesh Patel, Aaron Taylor-Johnson, Michael Caine, Clémence Poésy, Martin Donovan"
+    },
+    {
+      "id": "5",
+      "originalTitle": "The Dalton Gang (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/6OeGqp18oZucUGziMIRNhLouZ75.jpg",
+      "overview": "When their brother Frank is killed by an outlaw, brothers Bob Dalton, Emmett Dalton and Gray Dalton join their local sheriff's department. When they are cheated by the law, they turn to crime, robbing trains and anything else they can steal from over the course of two years in the early 1890's. Trying to out do Jesse James, they attempt to rob two banks at once in October of 1892, and things get ugly.",
+      "director": "Christopher Forbes",
+      "writer": "Micah Lyons",
+      "screenplay": "Christopher Forbes",
+      "personCast": "William Adams, Jezibell Anat, Gunner Bridger, Meghan Bridgers, Jerry Chesser, Alan Cope II, Judy DeLoach, William DeLoach"
+    },
+    {
+      "id": "6",
+      "originalTitle": "Hard Kill (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg",
+      "overview": "The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+      "director": "Matt Eskandari",
+      "writer": "Joe Russo, Chris LaMont, Clayton Haugen, Nikolai From",
+      "screenplay": "Joe Russo, Chris LaMont, Clayton Haugen, Nikolai From",
+      "personCast": "Bruce Willis, Jesse Metcalfe, Natalie Eva Marie, Lala Kent, Texas Battle, Swen Temmel, Sergio Rizzuto, Tyler Jon Olson, Jon Galanis"
+    },
+    {
+      "id": "7",
+      "originalTitle": "Mulan (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+      "director": "Niki Caro",
+      "writer": "Rick Jaffa, Amanda Silver, Lauren Hynek, Elizabeth Martin, Amanda Silver",
+      "screenplay": "Rick Jaffa, Amanda Silver, Lauren Hynek, Elizabeth Martin, Amanda Silver",
+      "personCast": "Liu Yifei, Jet Li, Tzi Ma, Donnie Yen, Gong Li, Jason Scott Lee, Yoson An, Rosalind Chao, Cheng Pei-Pei"
+    },
+    {
+      "id": "8",
+      "originalTitle": "Rogue City (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg",
+      "overview": "Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.",
+      "director": "Olivier Marchal",
+      "writer": "Olivier Marchal",
+      "screenplay": "Arnaud Putman, Jimena Esteve",
+      "personCast": "Lannick Gautry,Stanislas Merhar, Kaaris, Jean Reno, David Belle,　Gérard Lanvin,　Moussa Maaskri,　Catherine Marchal,　Francis Renaud,　Erika Sainte,　Barbara Opsomer,　Ambre Pietri,　"
+    },
+    {
+      "id": "9",
+      "originalTitle": "Greenland (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "overview": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "director": "Ric Roman Waugh",
+      "writer": "Chris Sparling",
+      "screenplay": "Dana Gonzales,　Clay A. Griffith",
+      "personCast": "Gerard Butler,　Morena Baccarin,　David Denman,　Hope Davis,　Roger Dale Floyd,　Scott Glenn,　Andrew Bachelor,　Merrin Dungey,　Holt McCallany,　Gary Weeks,　Tracey Bonner,　Joshua Mikel,　Cate Jones,　Mike Gassaway,　Anissa Matlock"
+    },
+    {
+      "id": "10",
+      "originalTitle": "Chick Fight (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg",
+      "overview": "When Anna Wyncomb is introduced to an an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.",
+      "director": "Paul Leyden",
+      "writer": "Joseph Downey, Hope Bryant",
+      "screenplay": "Joseph Downey",
+      "personCast": "Bella Thorne, Malin Åkerman, Alec Baldwin, Dulcé Sloan, Mariana Paola Vicente, Vitoria Setta, Julie Michaels, Nicol Paone, Alexia Barlier, Fortune Feimster, Marissa Labog, Julia Sandstrom"
+    },
+    {
+      "id": "11",
+      "originalTitle": "The New Mutants (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg",
+      "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+      "director": "Josh Boone",
+      "writer": "Josh Boone, Knate Lee",
+      "screenplay": "Knate Gwaltney,　Dave Cockrum,　Len Wein",
+      "personCast": "Maisie Williams, Anya Taylor-Joy, Charlie Heaton,　Alice Braga,　Blu Hunt,　Henry Zaga,　Adam Beach,　Thomas Kee,　Colbi Gannett,　Happy Anderson,　Dustin Ceithamer,　Mickey Gilmore,　Jeffrey Corazzini,　Jacinto Vega SpiritWolf,　Chuck,　Marilyn Manson"
+    },
+    {
+      "id": "12",
+      "originalTitle": "Money Plane (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/6CoRTJTmijhBLJTUNoVSUNxZMEI.jpg",
+      "overview": "A professional thief with 40 million dollar in debt and his family's life on the line must commit one final heist - rob a futuristic airborne casino filled with the world's most dangerous criminals.",
+      "director": "Andrew Lawrence",
+      "writer": "Tyler W. Konney, Richard Switzer",
+      "screenplay": "Andrew Lawrence,　Tim Schaaf",
+      "personCast": "Adam Copeland,　Kelsey Grammer,　Thomas Jane,　Denise Richards,　Katrina Norman,　Patrick Lamont Jr.,　Andrew Lawrence,　Joey Lawrence,　Matthew Lawrence,　Al Sapienza,　Aleksander Vayshelboym,　Jolene Kim,　Candi Brooks,　Tom DeNucci,　Bryan McClure"
+    },
+    {
+      "id": "13",
+      "originalTitle": "Enola Holmes (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+      "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "director": "Harry Bradbeer",
+      "writer": "Nancy Springer",
+      "screenplay": "Jack Thorne",
+      "personCast": "Millie Bobby Brown,　Henry Cavill,　Sam Claflin,　Helena Bonham Carter,　Louis Partridge,　Adeel Akhtar,　Fiona Shaw,　Frances de la Tour,　Burn Gorman,　Susan Wokoma,　Claire Rushbrook,　David Bamber,　Hattie Morahan,　Gaby French,　Paul Copley,　Ellie Haddington,　Alex Kelly,　James Duke,　Connor Catchpole"
+    },
+    {
+      "id": "14",
+      "originalTitle": "Peninsula (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg",
+      "overview": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+      "director": "Yeon Sang-ho",
+      "writer": "Yeon Sang-ho,　Ryu Yong-jae",
+      "screenplay": "Yeon Sang-ho,　Lee Mok-won,　Park Jun-yong,　Yu Cheong",
+      "personCast": "Kang Dong-won,　Lee Jung-hyun,　Lee Re,　Kwon Hae-hyo,　Kim Min-jae,　Koo Kyo-hwan,　Kim Do-yoon,　Lee Ye-won,　Kim Gyu-baek,　Jang So-yeon,　Daniel Joey Albright,　Hwang Yeon-hui,　Cha Si-won,　Pierce Conran"
+    },
+    {
+      "id": "15",
+      "originalTitle": "Roald Dahl's The Witches (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "overview": "In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world's Grand High Witch has gathered.",
+      "director": "Robert Zemeckis",
+      "writer": "Roald Dahl",
+      "screenplay": "Robert Zemeckis,　Kenya Barris, Guillermo del Toro",
+      "personCast": "Anne Hathaway,　Octavia Spencer,　Stanley Tucci,　Jahzir Bruno,　Chris Rock,　Codie-Lei Eastick,　Kristin Chenoweth,　Brian Bovell,　Charles Edwards,　Morgana Robinson,　Josette Simon,　Eugenia Caruso,　Ana Maria Maskell,　Orla O'Rourke,　Penny Lisle,　Simon Manyonda,　Amber Flanagan,　Jonathan Livingstone,　Philippe Spall,　Eurydice El-Etr"
+    },
+    {
+      "id": "16",
+      "originalTitle": "Demon Slayer the Movie: Mugen Train (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "overview": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!.",
+      "director": "Haruo Sotozaki",
+      "writer": "Takahiro Miura, Haruo Sotozaki, Koyoharu Gotōge",
+      "screenplay": "Yūta Kiso, Yōko Kajiyama, Kōji Etō, Akane Okabe, Kazuki Nishiwaki",
+      "personCast": "Natsuki Hanae, Akari Kitō, Hiro Shimono, Yoshitsugu Matsuoka, Satoshi Hino, Takahiro Sakurai, Katsuyuki Konishi, Saori Hayami, Kenichi Suzumura, Tomokazu Seki, Tomokazu Sugita, Toshiyuki Morikawa, Rina Satou, Shin-ichiro Miki, Houko Kuwashima, Kaede Hondo, You Taichi, Konomi Kohara, Aoi Koga, Rikiya Koyama"
+    },
+    {
+      "id": "17",
+      "originalTitle": "Freaky (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+      "overview": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+      "director": "Christopher Landon",
+      "writer": "Christopher Landon, Michael Kennedy",
+      "screenplay": "Christopher Landon,Ben Baudhuin,　Laurie Rose",
+      "personCast": "Vince Vaughn,　Kathryn Newton,　Alan Ruck,　Katie Finneran,　Celeste O'Connor,　Misha Osherovich,　Uriah Shelton,　Dana Drori,　Dustin Lewis,　Kelly Lamor Wilson,　Melissa Collazo,　Nick Arapoglou,　Radhesh Aria,　Emily Holder,　Nicholas Stargel,　Mitchell Hoog,　Jennifer Pierce Mathus,　Uriah Shelton,　Zack Shires,　Magnus Diehl"
+    },
+    {
+      "id": "18",
+      "originalTitle": "Ava (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+      "overview": "A black ops assassin is forced to fight for her own survival after a job goes.",
+      "director": "Tate Taylor",
+      "writer": "Matthew Newton",
+      "screenplay": "Matthew Newton",
+      "personCast": "Jessica Chastain,　John Malkovich,　Colin Farrell,　Common,　Geena Davis,　Ioan Gruffudd,　Joan Chen,　Jess Weixler,　Diana Silvers,　Falk Hentschel, Lin Hultgren, Michael Guarnera, Joe Sobalo Jr., Efka Kvaraciejus, Michel Muller, Brian Tobin, Alexandria Tait, Uliana Tabaka, Yefim Somin, Susan Halsey Singer, Scott Sederquist"
+    },
+    {
+      "id": "19",
+      "originalTitle": "Santana (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg",
+      "overview": "Two brothers — one a narcotics agent and the other a general — finally discover the identity of the drug lord who murdered their parents decades ago. They may kill each other before capturing the bad guys.",
+      "director": "Maradona Dias Dos Santos,　Chris Roland",
+      "writer": "Maradona Dias Dos Santos,　Chris Roland",
+      "screenplay": "Maradona Dias Dos Santos,　Chris Roland",
+      "personCast": "Paulo Americano, Terence Bridgett, Tamer Burjaq, Nompilo Gwala, Paul Hampshire, Dale Jackson, Hakeem Kae-Kazim, Terri Lane, Robin Minifie, Raúl Rosário, Rapulana Seiphemo, Jenna Upton, Neide Vieira"
+    },
+    {
+      "id": "20",
+      "originalTitle": "Rogue (2020)",
+      "posterPath": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",
+      "overview": "Battle-hardened O’Hara leads a lively mercenary team of soldiers on a daring mission: rescue hostages from their captors in remote Africa. But as the mission goes awry and the team is stranded, O’Hara’s squad must face a bloody, brutal encounter with a gang of rebels.",
+      "director": "M.J. Bassett",
+      "writer": "M.J. Bassett, Isabel Bassett",
+      "screenplay": "M.J. Bassett, Isabel Bassett",
+      "personCast": "Megan Fox, Philip Winchester, Greg Kriek, Brandon Auret, Jessica Sutton, Kenneth Fok, Isabel Bassett, Adam Deacon, Sisanda Henna, Tamer Burjaq, Ashish Gangapersad, Calli Taylor, Lee-Anne Liebenberg"
+    }
+  ]
+}

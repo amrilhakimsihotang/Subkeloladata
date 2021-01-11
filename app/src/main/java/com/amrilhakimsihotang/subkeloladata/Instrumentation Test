@@ -1,0 +1,117 @@
+Dibuat: 16/12/2020
+Programmer : Amril Hakim Sihotang
+
+Kelas: Belajar Android Jetpack Pro
+Author: Dicoding Academy 9
+
+
+Submission 1:
+-fitur: send email to developer, share, splash,change language
+-Implementasi viewBinding
+-menggunakan viewModel untuk movie dan tv show
+
+Submission 2:
+Menerapkan Repositori,LiveData dan skenario instrumentation test
+
+
+Skenario instrumentation test :
+
+Unit Testing ViewModel
+
+1. MoviesViewModel
+	memuat  listObjectMovies
+	a. Memastikan data listObjectMovies tidak null.
+	b. Memastikan jumlah data  listObjectMovies sesuai yang diharapkan.
+
+2. TivishowViewModel
+	memuat  listObjectTivi
+	a. Memastikan data listObjectTivi tidak null.
+	b. Memastikan jumlah data  listObjectTivi sesuai yang diharapkan.
+
+
+Instrumental Testing UI
+
+A.ViewModel Movie dan TV Show
+
+1. Menampilkan data Movie
+a. memastikan rvmovies detail tampil ketika action click dilakukan
+b. scroll rvmovies ke posisi terakhir
+
+2. Menampilkan data TV Show
+a. memastikan rvtivi tampil ketika action click dilakukan
+b. scroll rvtivi ke posisi terakhir
+
+
+B. testing UI MainActivity
+
+1. memastikan tab layout berjalan sesuai yang diharapkan
+    a. Mengklik tab TV SHOW untuk melihat / menampilkan data recyclerview TV SHOW
+    b. Mengklik  tab MOVIE untuk melihat / menampilkan data recyclerview MOVIE
+
+2. Aksi Menu “change language”.
+    a. Memastikan menu change language berjalan sesuai yang diharapkan
+
+3. Aksi Floatingactionbutton(fab email)
+    a. Memastikan tombol fab email berjalan sesuai yang diharapkan
+4. Aksi Splash untuk objeck progressbar
+    a. Memastikan progressbar berjalan dengan baik.
+
+Submission 2: Unit Testing Repository
+
+1. MovieViewModelTest:
+
+    Memuat Movie:
+
+        Memanipulasi data ketika pemanggilan data movie di kelas repository.
+
+        Memastikan metode di kelas repository terpanggil.
+
+        Melakukan pengecekan data course apakah null atau tidak.
+
+        Melakukan pengecekan jumlah data course apakah sudah sesuai atau belum.
+
+2. TiviViewModelTest:
+
+    Memuat Tivi:
+
+        Memanipulasi data ketika pemanggilan data  tivi di kelas repository.
+
+        Memastikan metode di kelas repository terpanggil.
+
+        Melakukan pengecekan data course apakah null atau tidak.
+
+        Melakukan pengecekan jumlah data course apakah sudah sesuai atau belum
+
+
+3. Menguji GeneralRepository
+
+Memastikan kelas repository berjalan seperti yang diharapkan.
+
+4.	Instrumental testing Idle Resource
+Memastikan Idle Resource berjalan seperti yang diharapkan.
+
+Submission 3:
+
+5. Menguji Room
+Memastikan kelas repositori, viewmodel untuk movie/tivi show berjalan dengan normal
+
+6. Menguji paging
+Memastikan paging berjalan sesuai yang diharapkan.
+
+7. Menguji Room Favorite Movie dan Tivi SHow
+a. memastikan apakah data Movie/Tivi Show bisa di tambahkan kedalam database favorite dengan baik
+b. memastikan apakah data Movie/Tivi Show dapat di hapus dengan baik
+
+8. Menampilkan data List Favorite Movie
+a. memastikan recyclerview untuk favorite Movie berjalan dengan baik
+b. memastikan item click salah satu data favorite movie berjalan dengan baik
+c.memastikan fab yang fungsi menghapus data seluruhnya dapat berjalan dengan baik
+     setelah menampil DialogAlert
+
+9. Menampilkan data List Favorite Tivi Show
+a. memastikan recyclerview untuk favorite Tivi Show berjalan dengan baik
+b. memastikan item click salah satu data favorite Tivi Show berjalan dengan baik
+c. memastikan fab yang fungsi menghapus data seluruhnya dapat berjalan dengan baik
+   setelah menampil DialogAlert
+
+

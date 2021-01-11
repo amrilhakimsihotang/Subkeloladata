@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/add_movie"
+        android:id="@+id/addfavomovie"
+        android:icon="@drawable/ic_baseline_favorite_24_marked"
+        app:showAsAction="ifRoom"
+        android:iconTint="@color/white"/>
+</menu>

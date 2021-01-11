@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="body">Hi Dear,\nPlease update the list Movie/TV Show per weeks. \nThanks</string>
+    <string name="subject">Please update Movie List</string>
+    <string name="email">gueamril@yahoo.com</string>
+    <string name="title">Email to :</string>
+    <string name="change_language">EN-ID</string>
+    <string name="title_general">Title here</string>
+    <string name="overview">Overview here....</string>
+    <string name="share">Share Button</string>
+    <string name="poster">Poster</string>
+    <string name="sharedetail">Hi friend,\nHerewith I would like to recommend you the movie  </string>
+    <string name="sharedetail2"> this today.\n Enjoy watching.</string>
+    <string name="sharedetailtv">Hi friend,\nHerewith I would like to recommend you the TV SHOW  </string>
+    <string name="sharedetailtv2"> this today.\n Enjoy watching.</string>
+    <string name="detailmovie">Detail Movie</string>
+    <string name="detailtivishow">Detail TV Show</string>
+
+    <string name="cardview">CV movie</string>
+    <string name="add_movie">Add Favorite</string>
+    <string name="about">About</string>
+    <string name="alert_success_add">Success to added Favorite</string>
+    <string name="_delete">Delete All</string>
+    <string name="detailfavmovie">Favorite Movie</string>
+    <string name="recyclerview">RecyclerView</string>
+    <string name="detailfavtivi">Favorite Tivi Show</string>
+    <string name="creatorFav">Creator Cast</string>
+    <string name="favdirector">Director</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="screenplay">Screenplay</string>
+    <string name="cast">Cast</string>
+    <string name="creator">Creator</string>
+    <string name="seriescast">Series Cast</string>
+    <string name="menu_favmovie">Favorite Movie</string>
+    <string name="menu_favtivi">Favorite Tivi</string>
+    <string name="title_about">About Me</string>
+    <string name="content_about">"Amril Hakim Sihotang.\nKelas  Belajar Android Jetpack Pro "</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_cancel">Are you sure to cancel?</string>
+    <string name="message_delete">Are you sure to delete from Favorite</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gen_favo_id">Code: %s</string>
+    <string name="fav_director_general">Director: %s</string>
+    <string name="fav_overview_general">Overview: %s</string>
+    <string name="fav_title_general">Title: %s</string>
+    <string name="fav_creator_general">Creator %s</string>
+    <string name="fab_button">Fab button Delete</string>
+
+
+</resources>

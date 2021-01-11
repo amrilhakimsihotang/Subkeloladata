@@ -1,0 +1,12 @@
+GET
+{BASE_URL}/movie/popular?api_key=$MOVIE_API
+&page={page}
+
+
+
+
+%%%
+# GET
+# /movie/popular?api_key=$MOVIE_API&page={page}
+
+# Error: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found
