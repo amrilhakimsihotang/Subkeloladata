@@ -3,3 +3,4 @@
 2. Database offline
 3. Tema Movie dan TV show
 4. Disertakan uji test case dan Instrumentation Tests
+5. Grade yang didapat B (Bintang 4)
