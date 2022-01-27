@@ -1,6 +1,5 @@
 # Kelola data<br>
-[![amrilhakimsihotang](https://circleci.com/gh/amrilhakimsihotang/Subkeloladata.svg?style=shield)](https://circleci.com/gh/amrilhakimsihotang/Subkeloladata)
-<br>
+
 
 1. Menggunakan Room database
 2. Database offline
